@@ -1,0 +1,6 @@
+.pio
+.clang_complete
+.gcc-flags.json
+.ccls
+logs/hz.2.log.gz
+logs/hz.*.log
